@@ -1,0 +1,12 @@
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/dto/VenueDTO.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/model/Venue.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/model/Event.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/dto/EventDTO.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/config/GlobalExceptionHandler.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/controller/VenueController.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/repository/VenueRepository.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/repository/EventRepository.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/service/VenueService.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/CatalogoApplication.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/controller/EventController.java
+/home/Coder/Descargas/catalogo (1)/catalogo/src/main/java/com/tiquetera/catalogo/service/EventService.java

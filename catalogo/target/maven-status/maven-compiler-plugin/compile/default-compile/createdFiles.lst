@@ -1,0 +1,12 @@
+com/tiquetera/catalogo/dto/EventDTO.class
+com/tiquetera/catalogo/model/Event.class
+com/tiquetera/catalogo/controller/VenueController.class
+com/tiquetera/catalogo/service/EventService.class
+com/tiquetera/catalogo/controller/EventController.class
+com/tiquetera/catalogo/service/VenueService.class
+com/tiquetera/catalogo/dto/VenueDTO.class
+com/tiquetera/catalogo/CatalogoApplication.class
+com/tiquetera/catalogo/config/GlobalExceptionHandler.class
+com/tiquetera/catalogo/repository/EventRepository.class
+com/tiquetera/catalogo/repository/VenueRepository.class
+com/tiquetera/catalogo/model/Venue.class
