@@ -1,0 +1,10 @@
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/domain/ports/out/EventRepositoryPort.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/infrastructure/adapters/in/web/EventController.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/HexagonalApplication.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/infrastructure/config/ApplicationConfig.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/domain/model/Event.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/infrastructure/adapters/out/jpa/JpaEventRepository.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/infrastructure/adapters/out/jpa/EventEntity.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/application/usecase/EventUseCaseImpl.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/domain/ports/in/CreateEventUseCase.java
+/home/Coder/Descargas/catalogo (3)/catalogo/src/main/java/com/tiquetera/hexagonal/infrastructure/adapters/out/jpa/EventJpaAdapter.java
